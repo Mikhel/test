@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml"
+#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 #EXTINF:-1 channel-id="samsung-USBC2400027NG" tvg-id="USBC2400027NG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400027NG_20240826T235605SQUARE.png" group-title="Motor Sports" tvg-chno="1001",Top Gear
 https://jmp2.uk/sam-USBC2400027NG.m3u8
 #EXTINF:-1 channel-id="samsung-USBD27000156I" tvg-id="USBD27000156I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD27000156I_20240826T235522SQUARE.png" group-title="Reality Competition" tvg-chno="1002",Alone By History
