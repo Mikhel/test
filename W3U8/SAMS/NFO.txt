@@ -1,0 +1,5 @@
+Para generar las listas necesito cambiar de región y de servicio.
+
+Regiones: all, us, mx, es, ca, gb
+
+Servicios: Plex, Roku, SamsungTVPlus, PlutoTV, PBS, Stirr
